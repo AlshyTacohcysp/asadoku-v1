@@ -1,0 +1,19 @@
+SEMAINE 1 : Fondations
+├── Jour 1-2 : Phase 1 (Structure + Navigation) ✅ En cours
+├── Jour 3-4 : Phase 2 (SQLite + CRUD)
+└── Jour 5   : Phase 3 (Dashboard fonctionnel)
+
+SEMAINE 2 : Fonctionnalités principales
+├── Jour 6-7 : Phase 4 (Gestion des cours)
+├── Jour 8-9 : Phase 5 (Gestion des todos)
+└── Jour 10  : Phase 6 (Début Étude/Révision)
+
+SEMAINE 3 : Fonctionnalités avancées
+├── Jour 11-12 : Phase 6 (Suite Étude/Révision)
+├── Jour 13-14 : Phase 7 (Chronomètre trajet)
+└── Jour 15    : Phase 8 (Alarmes natives)
+
+SEMAINE 4 : Finalisation
+├── Jour 16-17 : Phase 9 (Paramètres)
+├── Jour 18-19 : Phase 10-11 (Widget + Export/Import)
+└── Jour 20    : Phase 12 (Tests + Debug + APK)
